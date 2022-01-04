@@ -63,9 +63,10 @@ if __name__ == '__main__':
 
 <p align="center">
   <a href="https://facebook.com/may.atmayanti"><img src="https://img.shields.io/badge/-Atmayanti-660066?style=flat&logo=Facebook&logoColor=white"/></a>
-  <a href="https://id.linkedin.com/in/atmayanti-atmayanti-161a67205"><img src="https://img.shields.io/badge/-Atmayanti%20Atmayanti-cc0099?style=flat&logo=Linkedin&logoColor=white"/></a>
+  <a href="https://id.linkedin.com/in/atmayanti-atmayanti-161a67205"><img src="https://img.shields.io/badge/-Atmayanti%20Atmayanti-660066?style=flat&logo=Linkedin&logoColor=white"/></a>
   <a href="mailto:may.atmayanti@outlook.com"><img src="https://img.shields.io/badge/-may.atmayanti@outlook.com-cc0099?style=flat&logo=Gmail&logoColor=white"/></a>
   <a href="https://instagram.com/may_atmayanti"><img src="https://img.shields.io/badge/-@may_atmayanti-a85488?style=flat&logo=Instagram&logoColor=white"/></a>
+  <a href="https://twitter.com/may_atmayanti"><img src="https://img.shields.io/badge/-@may_atmayanti-a85488?style=flat&logo=Twitter&logoColor=white"/></a>
 </p>
 
 
