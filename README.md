@@ -22,7 +22,6 @@ class Atmayanti():
     self.name = "Atmayanti";
     self.username = "atmayanti";
     self.location = "Malang, Indonesia";
-    self.twitter = "@may_atmayanti";
     self.instagram = "@may_atmayanti";
     self.linkedin = "https://id.linkedin.com/in/atmayanti-atmayanti-161a67205";
   
@@ -54,8 +53,8 @@ if __name__ == '__main__':
   <img src="https://img.shields.io/badge/-Javascript-cc0099?style=for-the-badge&logo=javascript&logoColor=e6dd79&labelColor=282828">
   <img src="https://img.shields.io/badge/-JQuery-cc0099?style=for-the-badge&logo=jquery&logoColor=e6dd79&labelColor=282828">
   <img src="https://img.shields.io/badge/-PHP-cc0099?style=for-the-badge&logo=php&logoColor=e6dd79&labelColor=282828">
-  <img src="https://img.shields.io/badge/-Python-d467a7?style=for-the-badge&logo=python&logoColor=e6dd79&labelColor=282828">
-  <img src="https://img.shields.io/badge/-Java-d467a7?style=for-the-badge&logo=java&logoColor=e6dd79&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Python-a85488?style=for-the-badge&logo=python&logoColor=e6dd79&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Java-a85488?style=for-the-badge&logo=java&logoColor=e6dd79&labelColor=282828">
 </div>
 </p>
  <br>
@@ -63,11 +62,10 @@ if __name__ == '__main__':
 ## Get in Touch with Me
 
 <p align="center">
-  <a href="https://facebook.com/may_atmayanti"><img src="https://img.shields.io/badge/-@may_atmayanti-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-  <a href="https://twitter.com/may_atmayanti/"><img src="https://img.shields.io/badge/-@may_atmayanti-1877F2?style=flat&logo=Twitter&logoColor=white"/></a>
-  <a href="https://id.linkedin.com/in/atmayanti-atmayanti-161a67205"><img src="https://img.shields.io/badge/-Atmayanti%20Atmayanti-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-  <a href="mailto:may.atmayanti@outlook.com"><img src="https://img.shields.io/badge/-may.atmayanti@outlook.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-  <a href="https://instagram.com/may_atmayanti"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+  <a href="https://facebook.com/may.atmayanti"><img src="https://img.shields.io/badge/-Atmayanti-660066?style=flat&logo=Facebook&logoColor=white"/></a>
+  <a href="https://id.linkedin.com/in/atmayanti-atmayanti-161a67205"><img src="https://img.shields.io/badge/-Atmayanti%20Atmayanti-cc0099?style=flat&logo=Linkedin&logoColor=white"/></a>
+  <a href="mailto:may.atmayanti@outlook.com"><img src="https://img.shields.io/badge/-may.atmayanti@outlook.com-cc0099?style=flat&logo=Gmail&logoColor=white"/></a>
+  <a href="https://instagram.com/may_atmayanti"><img src="https://img.shields.io/badge/-@may_atmayanti-a85488?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
 
 
