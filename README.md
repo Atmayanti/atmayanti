@@ -1,14 +1,14 @@
 <h1 align=center>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Architects+Daughter&color=d467a7&size=30&lines=Hello+World!+It's+Atmayanti!;I+interest+->+AI,+ML,+Big+Data;I'd+like+to+learn+Web,+Mobile;And+I'm+an+Indonesian+🤗">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Architects+Daughter&color=d467a7&size=30&lines=Hello+World!+It's+Atmayanti!;I+interest+->+in+Software+Testing;I'd+like+to+learn+Web+automation+test;And+I'm+an+Indonesian+🤗">
   </a>
   </h1>
 
 ## My Profiles
 
-Hi Friends! I'm Atmayanti, a student of State Polytechnic of Malang. I'm majoring D4 Informatics Engineering. I currently living in Malang, Indonesia. I'd like to learning programming through small projects.
+Hi Friends! I'm Atmayanti, a student of State Polytechnic of Malang. I'm majoring D4 Informatics Engineering. I currently living in Malang, Indonesia. I'd like to learning quality assurance through small projects.
 
-- 🌱 I’m currently learning object oriented programming, artificial intelligence, web basic, and database
+- 🌱 I’m currently learning object website automation testing for e2e, regression, integration, smoke, and load testing
 - 👯 I’m looking to collaborate on small project of web or mobile developing
 - ⚡ Fun fact: I have 12 cats in my house 😹
 
@@ -23,7 +23,7 @@ class Atmayanti():
     self.username = "atmayanti";
     self.location = "Malang, Indonesia";
     self.instagram = "@may_atmayanti";
-    self.linkedin = "https://id.linkedin.com/in/atmayanti-atmayanti-161a67205";
+    self.linkedin = "https://id.linkedin.com/in/atmayanti";
   
   def __str__(self):
     return self.name
